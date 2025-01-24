@@ -1,6 +1,8 @@
-<h1>PohjolaEconomy</h1> 
+<h1>TokenManager</h1> 
 
 [![](https://jitpack.io/v/Realizedd/TokenManager.svg)](https://jitpack.io/#Realizedd/TokenManager)
+
+A simple economy plugin for spigot. <a href="https://www.spigotmc.org/resources/tokenmanager.8610/">Spigot Project Page</a>
 
 ---
 
@@ -10,6 +12,8 @@
 * **[config.yml](https://github.com/Realizedd/TokenManager/blob/master/src/main/resources/config.yml)**
 * **[lang.yml](https://github.com/Realizedd/TokenManager/blob/master/src/main/resources/lang.yml)**
 * **[shops.yml](https://github.com/Realizedd/TokenManager/blob/master/src/main/resources/shops.yml)**
+* **[Support Discord](https://discord.gg/RNy45sg)**
+
 
 ### Getting the dependency
 
